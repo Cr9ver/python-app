@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: cr9ver/python-app
   pullPolicy: IfNotPresent
-  tag: 2531f6
+  tag: 7de151
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
