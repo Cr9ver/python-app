@@ -5,6 +5,7 @@ metadata:
   description: Python application that displays some info
   annotations:
     github.com/project-slug: cr9ver/python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
